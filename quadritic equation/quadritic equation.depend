@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638943394 source:c:\users\shanu\onedrive\documents\sem1\study\c pratice\quadritic equation\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
